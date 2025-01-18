@@ -23,4 +23,5 @@ The SOC Automation Lab project aimed to establish a controlled environment for s
 
 ## Steps
 
-*Ref 1: Network Diagram* (https://github.com/user-attachments/assets/4832ae8b-c3a7-40f8-936e-2c54fbdac710)
+*Ref 1: Network Diagram displaying the flow of data*   <img width="960" alt="Screenshot 2025-01-17 223144" src="https://github.com/user-attachments/assets/e7a3732d-c27e-4887-b560-8664b08db5aa" />
+
