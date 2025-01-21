@@ -1,4 +1,3 @@
-
 ## Objective
 
 
@@ -31,7 +30,7 @@ The SOC Automation Lab project aimed to establish a controlled environment for s
 *Ref 3: Configure a Firewall for our Wazuh Server hosted on Digital Ocean Cloud                                              
 We will only allow traffic from our public IP* <img width="960" alt="Screenshot 2025-01-20 184259" src="https://github.com/user-attachments/assets/81af3025-7c2b-4cfc-b63a-35062c3780d6" />
 
-
+*Ref 5: Install the Wazuh Server* <img alt="Screenshot 2025-01-20 193713" src="https://github.com/user-attachments/assets/cc48f07c-ed2c-4da1-adc1-21f0d873780f" />
 
 
 
