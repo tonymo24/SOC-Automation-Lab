@@ -27,7 +27,7 @@ The SOC Automation Lab project aimed to establish a controlled environment for s
 
 *Ref 3: Install Sysmon for our Windows 10 Machine* <img src="https://github.com/user-attachments/assets/57acda57-b84f-4272-a3a8-bad15a297c46" /> 
 
-*Ref 3: Configure a Firewall for our Wazuh Server hosted on Digital Ocean Cloud                                              
+*Ref 3: Configure a Firewall for our Wazuh Server and theHive hosted on Digital Ocean Cloud                                              
 We will only allow traffic from our public IP* <img width="960" alt="Screenshot 2025-01-20 184259" src="https://github.com/user-attachments/assets/81af3025-7c2b-4cfc-b63a-35062c3780d6" />
 
 *Ref 5: Install the Wazuh Server* <img alt="Screenshot 2025-01-20 193713" src="https://github.com/user-attachments/assets/cc48f07c-ed2c-4da1-adc1-21f0d873780f" />
