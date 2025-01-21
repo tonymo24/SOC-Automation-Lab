@@ -27,5 +27,8 @@ The SOC Automation Lab project aimed to establish a controlled environment for s
 
 *Ref 2: Windows 10 Machine Setup*  <img src="https://github.com/user-attachments/assets/17d67402-9f80-4a60-8250-575d312d2ff8" />
 
+*Ref 3: Install Sysmon for our Windows 10 Machine* <img src="https://github.com/user-attachments/assets/57acda57-b84f-4272-a3a8-bad15a297c46" />
+
+
 
 
