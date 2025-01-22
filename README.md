@@ -40,4 +40,6 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 8: Start and Enable theHive* <img alt="Screenshot 2025-01-21 222347" src="https://github.com/user-attachments/assets/14f09ded-d3aa-4eac-b732-a3ea28997e44" />
 
+*Ref 9: Install our Wazuh Agent* <img alt="Screenshot 2025-01-22 000803" src="https://github.com/user-attachments/assets/cf00b19f-4ba4-44f2-bdfb-8789f1297ae5" />
+
  
