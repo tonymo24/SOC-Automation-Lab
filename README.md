@@ -36,4 +36,6 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 <img width="960" alt="Screenshot 2025-01-21 204216" src="https://github.com/user-attachments/assets/1a971bd5-1e90-400a-8292-3a7f1995e61d" />
 <img alt="Screenshot 2025-01-21 204751" src="https://github.com/user-attachments/assets/7fca46c8-ac45-4882-b2ce-1473aa447be4" />
 
+*Ref 8: Start and Enable ElasticSearch* <img alt="Screenshot 2025-01-21 210158" src="https://github.com/user-attachments/assets/c33b59f0-cd8a-45d4-975c-e4fc4bdb1a1f" />
+
 
