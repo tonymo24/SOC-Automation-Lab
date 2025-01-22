@@ -32,5 +32,8 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 5: Install the Wazuh Server* <img alt="Screenshot 2025-01-20 193713" src="https://github.com/user-attachments/assets/cc48f07c-ed2c-4da1-adc1-21f0d873780f" />
 
+*Ref 6/7: Configure Cassandra Database for theHive and then start the service* 
+<img width="960" alt="Screenshot 2025-01-21 204216" src="https://github.com/user-attachments/assets/1a971bd5-1e90-400a-8292-3a7f1995e61d" />
+<img alt="Screenshot 2025-01-21 204751" src="https://github.com/user-attachments/assets/7fca46c8-ac45-4882-b2ce-1473aa447be4" />
 
 
