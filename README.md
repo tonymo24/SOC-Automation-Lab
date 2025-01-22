@@ -38,4 +38,6 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 8: Start and Enable ElasticSearch* <img alt="Screenshot 2025-01-21 210158" src="https://github.com/user-attachments/assets/c33b59f0-cd8a-45d4-975c-e4fc4bdb1a1f" />
 
+*Ref 8: Start and Enable theHive* <img alt="Screenshot 2025-01-21 222347" src="https://github.com/user-attachments/assets/14f09ded-d3aa-4eac-b732-a3ea28997e44" />
 
+ 
