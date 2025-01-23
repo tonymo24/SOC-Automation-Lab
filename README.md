@@ -47,5 +47,8 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 *Ref 11: FDownload and Install Mimikatz* ![VirtualBox_demo_23_01_2025_01_00_13](https://github.com/user-attachments/assets/cea4fd3a-7457-46f0-bce0-91231a9c5e46)
 *Ref 12: Edit our configuration log to forward all alerts to Wazuh* ![Screenshot 2025-01-23 011215](https://github.com/user-attachments/assets/96499da2-7fe7-4672-9f3a-d4f6fed04083)
 
+*Ref 13: Create a Custom Rule in Wazuh to detect Mimikatz credential dumping*![VirtualBox_demo_23_01_2025_02_21_51](https://github.com/user-attachments/assets/003e827d-92d3-44d7-901d-19bb28dd32a9)
+
+
 
  
