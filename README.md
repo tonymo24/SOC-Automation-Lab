@@ -42,4 +42,7 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 9: Install our Wazuh Agent* <img alt="Screenshot 2025-01-22 000803" src="https://github.com/user-attachments/assets/cf00b19f-4ba4-44f2-bdfb-8789f1297ae5" />
 
+*Ref 10: Filter the Wazuh Agent for Sysmon Events* <img alt="VirtualBox_demo_23_01_2025_00_07_01" src="https://github.com/user-attachments/assets/f6222748-58b7-49a1-803e-e5739d64928b" />
+
+
  
