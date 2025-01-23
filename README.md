@@ -44,5 +44,8 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 10: Filter the Wazuh Agent for Sysmon Events* <img alt="VirtualBox_demo_23_01_2025_00_07_01" src="https://github.com/user-attachments/assets/f6222748-58b7-49a1-803e-e5739d64928b" />
 
+*Ref 11: FDownload and Install Mimikatz* ![VirtualBox_demo_23_01_2025_01_00_13](https://github.com/user-attachments/assets/cea4fd3a-7457-46f0-bce0-91231a9c5e46)
+*Ref 12: Edit our configuration log to forward all alerts to Wazuh* ![Screenshot 2025-01-23 011215](https://github.com/user-attachments/assets/96499da2-7fe7-4672-9f3a-d4f6fed04083)
+
 
  
