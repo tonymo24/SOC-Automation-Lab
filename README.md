@@ -52,6 +52,7 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 *Ref 14: Add an integration tag to our Wazuh config files to allow Shuffle connection
 ![Screenshot 2025-02-19 232328](https://github.com/user-attachments/assets/905e90cf-2ee9-49f4-ab98-20ace99e4842)
 
-
+*Ref 15: Use regex to parse our SHA256 hash from Wazuh ![Screenshot 2025-02-20 005823](https://github.com/user-attachments/assets/1e7be111-3ed0-48f4-a0db-adf09421d6d6)
+![Screenshot 2025-02-19 234514](https://github.com/user-attachments/assets/5769c9c8-1bdc-4fe5-8357-c5060c22b147)
 
  
