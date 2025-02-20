@@ -49,6 +49,9 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 
 *Ref 13: Create a Custom Rule in Wazuh to detect Mimikatz credential dumping*![VirtualBox_demo_23_01_2025_02_21_51](https://github.com/user-attachments/assets/003e827d-92d3-44d7-901d-19bb28dd32a9)
 
+*Ref 14: Add an integration tag to our Wazuh config files to allow Shuffle connection
+![Screenshot 2025-02-19 232328](https://github.com/user-attachments/assets/905e90cf-2ee9-49f4-ab98-20ace99e4842)
+
 
 
  
