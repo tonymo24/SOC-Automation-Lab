@@ -55,4 +55,8 @@ We will only allow traffic from our public IP* <img width="960" alt="Screenshot 
 *Ref 15: Use regex to parse our SHA256 hash from Wazuh ![Screenshot 2025-02-20 005823](https://github.com/user-attachments/assets/1e7be111-3ed0-48f4-a0db-adf09421d6d6)
 ![Screenshot 2025-02-19 234514](https://github.com/user-attachments/assets/5769c9c8-1bdc-4fe5-8357-c5060c22b147)
 
+*Ref 16: Create two accounts (one normal and one service). Then generate an API key for the service account. <img width="1920" height="1128" alt="Screenshot 2026-01-08 183717" src="https://github.com/user-attachments/assets/42a667c4-5e4f-4ca3-bc04-237781c24f79" />
+
+
+
  
